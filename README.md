@@ -13,7 +13,7 @@
 한전 KDN 2023 빛가람 에너지밸리 소프트웨어 작품 경진대회에 참여 대상을 수상하였습니다.
 NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참여했습니다.
 
-https://github.com/rmflsdl4/ProjectSinerva.git
+<a>https://github.com/rmflsdl4/ProjectSinerva.git</a>
 
 #2. DB를 이용한 영화 정보 사이트
 팀 프로젝트
@@ -38,3 +38,20 @@ HTML JavaScript를 이용해 영화 정보를 소개하는 웹 사이트 개발�
 기간: 2학년 1학기 프로젝트
 역할: 점수 기능, 외부에 변수값 저장 기능 구현
 개발언어: C
+
+
+
+#5. YoloV8를 사용한 교통 관리 시스템
+팀 프로젝트
+역할: 객체 인식 기능 및 객체 학습, 파일 관리
+개발언어: Python, HTML JavaScript, NodeJs, YOLOV8
+
+<a>https://github.com/Wjfjs/Capstone.git</a>
+
+
+#6. 빅데이터를 사용해 범죄 발생 통계
+개인 프로젝트
+역할: 데이터 분석 및 수집, 그래프 제작 및 WMS를 이용해 지도에 실시간 범죄분포 표시
+개발언어: Python, Jupyter
+
+<a>https://github.com/Wjfjs/bigData.git</a>
