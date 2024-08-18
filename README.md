@@ -29,8 +29,9 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 주요 기능: 댓글, 추천, 검색 기능<br>
 개발언어: HTML JavaScript<br><br>
 
-HTML JavaScript를 이용해 영화 정보를 소개하는 웹 사이트 개발하였습니다.<br><br><br>
+HTML JavaScript를 이용해 영화 정보를 소개하는 웹 사이트 개발하였습니다.<br><br>
 
+<a>https://github.com/Wjfjs/MovieWebSite.git</a><br><br><br>
 
 
 #4. 타자 연습 프로그램<br>
