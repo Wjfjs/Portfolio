@@ -14,9 +14,21 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 
 <a>https://github.com/rmflsdl4/ProjectSinerva.git</a><br><br><br>
 
+#2. 빅데이터를 사용한 범죄 발생 통계<br>
+개인 프로젝트<br>
+역할: 데이터 분석 및 수집, 그래프 제작 및 WMS를 이용해 지도에 실시간 범죄분포 표시<br>
+개발언어: Python, Jupyter<br><br>
 
+<a>https://github.com/Wjfjs/bigData.git</a><br><br><br>
 
-#2.영화 정보 사이트<br>
+#3. YoloV8를 사용한 교통 관리 시스템<br>
+팀 프로젝트<br>
+역할: 객체 인식 기능 및 객체 학습, 파일 관리<br>
+개발언어: Python, HTML JavaScript, NodeJs, YOLOV8<br><br>
+
+<a>https://github.com/Wjfjs/Capstone.git</a><br><br><br>
+
+#4.영화 정보 사이트<br>
 팀 프로젝트 -> 개인 프로젝트<br>
 기간: 2~3학년 프로젝트<br>
 역할: 웹 디자인, DB설계, 추천, 검색, 좋아요, 댓글 기능 구현<br>
@@ -27,25 +39,8 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 <a>https://github.com/Wjfjs/MovieWebSite.git</a><br><br><br>
 
 
-#3. 타자 연습 프로그램<br>
+#5. 타자 연습 프로그램<br>
 팀 프로젝트<br>
 기간: 2학년 1학기 프로젝트<br>
 역할: 점수 기능, 외부에 변수값 저장 기능 구현<br>
 개발언어: C<br><br><br>
-
-
-#4. YoloV8를 사용한 교통 관리 시스템<br>
-팀 프로젝트<br>
-역할: 객체 인식 기능 및 객체 학습, 파일 관리<br>
-개발언어: Python, HTML JavaScript, NodeJs, YOLOV8<br><br>
-
-<a>https://github.com/Wjfjs/Capstone.git</a><br><br><br>
-
-
-
-#5. 빅데이터를 사용한 범죄 발생 통계<br>
-개인 프로젝트<br>
-역할: 데이터 분석 및 수집, 그래프 제작 및 WMS를 이용해 지도에 실시간 범죄분포 표시<br>
-개발언어: Python, Jupyter<br><br>
-
-<a>https://github.com/Wjfjs/bigData.git</a><br><br><br>
