@@ -1,8 +1,7 @@
 # 개발 포트폴리오<br>
 윤희혁(Huihyeok Yun) - 개발 포트폴리오<br><br>
 
-# Projects<br>
-대학 재학중 진행한 프로젝트들 입니다.<br><br>
+# Projects<br><br>
 
 #1. AI 건물 균열 검사<br>
 팀 프로젝트<br>
