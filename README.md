@@ -38,8 +38,19 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 
 <a>https://github.com/Wjfjs/MovieWebSite.git</a><br><br><br>
 
+#5. 광주대학교 캠퍼스 가이드 AI - GuBot<br>
+팀 프로젝트<br>
+기간: 2024.11 ~ 진행중 <br>
+역할: API & 데이터 통신, 기능 구현 서브, 서버 서브 관리 <br>
+개발언어: SpringBoot, React, LLM(huggingface), Python<br><br><br>
 
-#5. 타자 연습 프로그램<br>
+학생들에게 유용한 정보를 제공하고 학교 생활의 편의를 높이는 AI 도우미이다. <br>
+질문이 들어오면 광주대학교의 다양한 정보를 기반으로 답변을 제공하며, 학점 계산과 같은 기능을 통해 학생들의 생활을 더욱 편리하게 만든다.<br>
+이 AI는 단순한 정보 제공을 넘어, 광주대학교 캠퍼스에 특화된 기능을 지원하여 학생들이 필요한 정보를 빠르게 찾고 활용할 수 있도록 돕는 것이 목표이다.<br><br>
+
+<a>https://github.com/rmflsdl4/PortfolioProject</a><br><br><br>
+
+#6. 타자 연습 프로그램<br>
 팀 프로젝트<br>
 기간: 2학년 1학기 프로젝트<br>
 역할: 점수 기능, 외부에 변수값 저장 기능 구현<br>
