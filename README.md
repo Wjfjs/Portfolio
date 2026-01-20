@@ -43,7 +43,7 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 
 # 5. 광주대학교 캠퍼스 가이드 AI - GuBot<br>
 팀 프로젝트<br>
-기간: 2024.11 ~ 진행중 <br>
+기간: 2024.11 ~ 2025.06 <br>
 역할: API & 데이터 통신, 기능 구현 서브, 서버 서브 관리 <br>
 개발언어: SpringBoot, React, LLM(huggingface), Python<br><br><br>
 
@@ -52,10 +52,10 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 
 <a>https://github.com/rmflsdl4/PortfolioProject</a><br><br><br>
 
-# 6. 타자 연습 프로그램<br>
+# 6. 해외 배송 관리 웹 서비스<br>
 팀 프로젝트<br>
-기간: 2학년 1학기 프로젝트<br>
-역할: 점수 기능, 외부에 변수값 저장 기능 구현<br>
-개발언어: C<br><br>
+기간: 2025.06 ~ 2025.10 <br>
+역할: 배송 상황, 배송 상태 관리 기능<br>
+개발언어: SpringBoot, PostgreSQL, SVN<br><br>
 
-영타를 재미있게 연습하자는 취재로 타자 게임을 구현했습니다.<br>
+삼성전자 로지텍 해외 배송 관리 웹 서비스를 개발 했습니다.<br>
