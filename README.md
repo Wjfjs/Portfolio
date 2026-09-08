@@ -59,3 +59,9 @@ NodeJS를 기반으로 JavaScript를 이용해 개발하였고, Back-end로 참�
 개발언어: SpringBoot, PostgreSQL, SVN<br><br>
 
 삼성전자 로지텍 해외 배송 관리 웹 서비스를 개발 했습니다.<br>
+
+# 7. 디스코드 무비 봇<br>
+개인 프로젝트<br>
+기간: 
+
+<a>https://github.com/Wjfjs/movie-bot.git</a>
