@@ -68,8 +68,6 @@ PostgreSQL과 Oracle을 활용한 데이터베이스 설계 및 데이터 처리
 * 배송 자재 관리 기능 구현
 * 게시판 기능 구현
 * REST API 개발
-* PostgreSQL 데이터베이스 설계 및 연동
-* SVN을 이용한 형상 관리
 
 ### Tech Stack
 
