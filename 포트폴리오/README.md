@@ -1,7 +1,7 @@
 <h2>📑 개발 포트폴리오</h2>
 
 <p align="center">
-  <img src="포트폴리오/포트폴리오 PNG/윤희혁_포트폴리오/슬라이드1.PNG" width="900">
+  <img src="포트폴리오 PNG/윤희혁_포트폴리오/슬라이드1.PNG" width="900">
 </p>
 
 <p align="center">
